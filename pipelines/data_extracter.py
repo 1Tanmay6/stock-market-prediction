@@ -37,8 +37,8 @@ class DataExtractor:
         try:
             response = requests.get(self.url)
             if response.status_code == 200:
-                self.logger.info('Data extracted successfully...')
                 data = response.json()
+                self.logger.info('Data extracted successfully...')
                 return data
         except Exception as exception:
             self.logger.warning(f'An error occurred: {exception}')

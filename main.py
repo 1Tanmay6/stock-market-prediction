@@ -1,14 +1,15 @@
 from flask import Flask, request
-from data_extracter import extract_data
+from pipelines.data_extracter import extract_data
 import requests
 
 app = Flask(__name__)
 
 @app.route('/extract', methods=['POST'])
-def extract_data():
+def extract_route_function():
+
     url = request.json.get('url')
     file_name = request.json.get('file_name')
-
+    print(url, file_name)
     if not url or not file_name:
         return 'URL and file name are required', 400
 

@@ -1,0 +1,33 @@
+2024-04-18 17:13:45,932 - INFO - Intitializing Data Preprocessor
+2024-04-18 17:13:45,932 - INFO - Data Preprocessor initialized successfully
+2024-04-18 17:13:45,932 - WARNING - No model selected. Returning the data as it is.
+2024-04-18 17:13:51,496 - INFO - Intitializing Data Preprocessor
+2024-04-18 17:13:51,496 - INFO - Data Preprocessor initialized successfully
+2024-04-18 17:13:51,496 - INFO - Starting Preprocessing data for Linear Regression
+2024-04-18 17:13:51,501 - INFO - Fixed the Variables
+2024-04-18 17:13:51,506 - INFO - Scaled the data
+2024-04-18 17:13:51,506 - INFO - Data Preprocessing for Linear Regression completed
+2024-04-18 17:13:58,019 - INFO - Intitializing Data Preprocessor
+2024-04-18 17:13:58,019 - INFO - Data Preprocessor initialized successfully
+2024-04-18 17:13:58,019 - INFO - Preprocessing data for ANN
+2024-04-18 17:13:58,019 - WARNING - Redirecting the ANN preprocessing over to Linear Regression Preprocessor
+2024-04-18 17:13:58,019 - INFO - Starting Preprocessing data for Linear Regression
+2024-04-18 17:13:58,024 - INFO - Fixed the Variables
+2024-04-18 17:13:58,029 - INFO - Scaled the data
+2024-04-18 17:13:58,029 - INFO - Data Preprocessing for Linear Regression completed
+2024-04-18 17:14:03,903 - INFO - Intitializing Data Preprocessor
+2024-04-18 17:14:03,904 - INFO - Data Preprocessor initialized successfully
+2024-04-18 17:14:03,904 - INFO - Preprocessing data for RNN
+2024-04-18 17:14:03,909 - INFO - Fixed the Variables and Updated the date time format
+2024-04-18 17:14:03,909 - INFO - Reshaped the data for the given option(Open).
+2024-04-18 17:14:03,910 - INFO - Scaled the Features
+2024-04-18 17:14:03,920 - INFO - Created the final data feed sequence.
+2024-04-18 17:14:08,667 - INFO - Intitializing Data Preprocessor
+2024-04-18 17:14:08,667 - INFO - Data Preprocessor initialized successfully
+2024-04-18 17:14:08,667 - INFO - Preprocessing data for LSTM
+2024-04-18 17:14:08,667 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-18 17:14:08,667 - INFO - Preprocessing data for RNN
+2024-04-18 17:14:08,672 - INFO - Fixed the Variables and Updated the date time format
+2024-04-18 17:14:08,672 - INFO - Reshaped the data for the given option(Open).
+2024-04-18 17:14:08,673 - INFO - Scaled the Features
+2024-04-18 17:14:08,682 - INFO - Created the final data feed sequence.
