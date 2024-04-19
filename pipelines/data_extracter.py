@@ -49,9 +49,13 @@ class DataExtractor:
             writer = csv.writer(file)
             headers = ["Date", "Open", "High", "Low", "Close", "Adjusted Close", "Volume", "Dividend Amount", "Split Coefficient"]
             writer.writerow(headers)
-
+            keys = []
             # Loop through the JSON data and write each item to the CSV file
-            for date, values in data["Time Series (Daily)"].items():
+            for data_1, values in data.items():
+                keys.append(data_1)
+            print('*'*20)
+            print()
+            for date, values in data[keys[1]].items():
                 row = [date] + list(values.values())
                 writer.writerow(row)
 

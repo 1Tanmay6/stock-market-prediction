@@ -31,3 +31,636 @@
 2024-04-18 17:14:08,672 - INFO - Reshaped the data for the given option(Open).
 2024-04-18 17:14:08,673 - INFO - Scaled the Features
 2024-04-18 17:14:08,682 - INFO - Created the final data feed sequence.
+2024-04-19 11:20:00,090 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:20:00,097 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:20:00,097 - WARNING - No model selected. Returning the data as it is.
+2024-04-19 11:22:25,517 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:22:25,517 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:22:25,517 - WARNING - No model selected. Returning the data as it is.
+2024-04-19 11:22:45,126 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:22:45,126 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:22:45,126 - INFO - Preprocessing data for ANN
+2024-04-19 11:22:45,127 - WARNING - Redirecting the ANN preprocessing over to Linear Regression Preprocessor
+2024-04-19 11:22:45,127 - INFO - Starting Preprocessing data for Linear Regression
+2024-04-19 11:22:45,127 - CRITICAL - An error occurred: string indices must be integers
+2024-04-19 11:27:46,123 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:27:46,123 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:27:46,123 - INFO - Preprocessing data for ANN
+2024-04-19 11:27:46,123 - WARNING - Redirecting the ANN preprocessing over to Linear Regression Preprocessor
+2024-04-19 11:27:46,123 - INFO - Starting Preprocessing data for Linear Regression
+2024-04-19 11:27:46,123 - CRITICAL - An error occurred: string indices must be integers
+2024-04-19 11:29:36,872 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:29:36,872 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:29:36,872 - INFO - Preprocessing data for ANN
+2024-04-19 11:29:36,872 - WARNING - Redirecting the ANN preprocessing over to Linear Regression Preprocessor
+2024-04-19 11:29:36,882 - INFO - Starting Preprocessing data for Linear Regression
+2024-04-19 11:29:36,888 - INFO - Fixed the Variables
+2024-04-19 11:29:36,893 - INFO - Scaled the data
+2024-04-19 11:29:36,893 - INFO - Data Preprocessing for Linear Regression completed
+2024-04-19 11:34:29,740 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:34:29,740 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:34:29,740 - INFO - Preprocessing data for ANN
+2024-04-19 11:34:29,740 - WARNING - Redirecting the ANN preprocessing over to Linear Regression Preprocessor
+2024-04-19 11:34:29,757 - INFO - Starting Preprocessing data for Linear Regression
+2024-04-19 11:34:29,760 - INFO - Fixed the Variables
+2024-04-19 11:34:29,763 - INFO - Scaled the data
+2024-04-19 11:34:29,763 - INFO - Data Preprocessing for Linear Regression completed
+2024-04-19 11:35:13,985 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:35:13,985 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:35:13,985 - WARNING - No model selected. Returning the data as it is.
+2024-04-19 11:35:13,985 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:35:13,985 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:35:13,985 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:35:13,985 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:36:17,462 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:36:17,463 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:36:17,463 - INFO - Preprocessing data for ANN
+2024-04-19 11:36:17,463 - WARNING - Redirecting the ANN preprocessing over to Linear Regression Preprocessor
+2024-04-19 11:36:17,473 - INFO - Starting Preprocessing data for Linear Regression
+2024-04-19 11:36:17,476 - INFO - Fixed the Variables
+2024-04-19 11:36:17,478 - INFO - Scaled the data
+2024-04-19 11:36:17,478 - INFO - Data Preprocessing for Linear Regression completed
+2024-04-19 11:36:33,846 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:36:33,846 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:36:33,846 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:36:33,846 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:36:33,846 - INFO - Preprocessing data for ANN
+2024-04-19 11:36:33,846 - INFO - Preprocessing data for ANN
+2024-04-19 11:36:33,846 - WARNING - Redirecting the ANN preprocessing over to Linear Regression Preprocessor
+2024-04-19 11:36:33,846 - WARNING - Redirecting the ANN preprocessing over to Linear Regression Preprocessor
+2024-04-19 11:36:33,854 - INFO - Starting Preprocessing data for Linear Regression
+2024-04-19 11:36:33,854 - INFO - Starting Preprocessing data for Linear Regression
+2024-04-19 11:36:33,855 - INFO - Fixed the Variables
+2024-04-19 11:36:33,855 - INFO - Fixed the Variables
+2024-04-19 11:36:33,857 - INFO - Scaled the data
+2024-04-19 11:36:33,857 - INFO - Scaled the data
+2024-04-19 11:36:33,858 - INFO - Data Preprocessing for Linear Regression completed
+2024-04-19 11:36:33,858 - INFO - Data Preprocessing for Linear Regression completed
+2024-04-19 11:37:17,880 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:37:17,880 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:37:17,880 - INFO - Preprocessing data for ANN
+2024-04-19 11:37:17,880 - WARNING - Redirecting the ANN preprocessing over to Linear Regression Preprocessor
+2024-04-19 11:37:17,891 - INFO - Starting Preprocessing data for Linear Regression
+2024-04-19 11:37:17,894 - INFO - Fixed the Variables
+2024-04-19 11:37:17,896 - INFO - Scaled the data
+2024-04-19 11:37:17,896 - INFO - Data Preprocessing for Linear Regression completed
+2024-04-19 11:38:39,216 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:38:39,216 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:38:39,216 - INFO - Preprocessing data for ANN
+2024-04-19 11:38:39,216 - WARNING - Redirecting the ANN preprocessing over to Linear Regression Preprocessor
+2024-04-19 11:38:39,231 - INFO - Starting Preprocessing data for Linear Regression
+2024-04-19 11:38:39,233 - INFO - Fixed the Variables
+2024-04-19 11:38:39,235 - INFO - Scaled the data
+2024-04-19 11:38:39,235 - INFO - Data Preprocessing for Linear Regression completed
+2024-04-19 11:38:49,528 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:38:49,528 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:38:49,528 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:38:49,528 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:38:49,537 - INFO - Starting Preprocessing data for Linear Regression
+2024-04-19 11:38:49,537 - INFO - Starting Preprocessing data for Linear Regression
+2024-04-19 11:38:49,539 - INFO - Fixed the Variables
+2024-04-19 11:38:49,539 - INFO - Fixed the Variables
+2024-04-19 11:38:49,541 - INFO - Scaled the data
+2024-04-19 11:38:49,541 - INFO - Scaled the data
+2024-04-19 11:38:49,541 - INFO - Data Preprocessing for Linear Regression completed
+2024-04-19 11:38:49,541 - INFO - Data Preprocessing for Linear Regression completed
+2024-04-19 11:38:55,877 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:38:55,877 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:38:55,877 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:38:55,877 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:38:55,877 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:38:55,877 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:38:55,877 - INFO - Preprocessing data for LSTM
+2024-04-19 11:38:55,877 - INFO - Preprocessing data for LSTM
+2024-04-19 11:38:55,877 - INFO - Preprocessing data for LSTM
+2024-04-19 11:38:55,877 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 11:38:55,877 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 11:38:55,877 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 11:38:55,879 - INFO - Preprocessing data for RNN
+2024-04-19 11:38:55,879 - INFO - Preprocessing data for RNN
+2024-04-19 11:38:55,879 - INFO - Preprocessing data for RNN
+2024-04-19 11:38:55,882 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:38:55,882 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:38:55,882 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:38:55,882 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:38:55,882 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:38:55,882 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:38:55,882 - INFO - Scaled the Features
+2024-04-19 11:38:55,882 - INFO - Scaled the Features
+2024-04-19 11:38:55,882 - INFO - Scaled the Features
+2024-04-19 11:38:55,882 - INFO - Created the final data feed sequence.
+2024-04-19 11:38:55,882 - INFO - Created the final data feed sequence.
+2024-04-19 11:38:55,882 - INFO - Created the final data feed sequence.
+2024-04-19 11:40:45,610 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:40:45,610 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:40:45,610 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:40:45,610 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:40:45,610 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:40:45,610 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:40:45,610 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:40:45,610 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:40:45,611 - INFO - Preprocessing data for RNN
+2024-04-19 11:40:45,611 - INFO - Preprocessing data for RNN
+2024-04-19 11:40:45,611 - INFO - Preprocessing data for RNN
+2024-04-19 11:40:45,611 - INFO - Preprocessing data for RNN
+2024-04-19 11:40:45,613 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:40:45,613 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:40:45,613 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:40:45,613 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:40:45,613 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:40:45,613 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:40:45,613 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:40:45,613 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:40:45,613 - INFO - Scaled the Features
+2024-04-19 11:40:45,613 - INFO - Scaled the Features
+2024-04-19 11:40:45,613 - INFO - Scaled the Features
+2024-04-19 11:40:45,613 - INFO - Scaled the Features
+2024-04-19 11:40:45,614 - INFO - Created the final data feed sequence.
+2024-04-19 11:40:45,614 - INFO - Created the final data feed sequence.
+2024-04-19 11:40:45,614 - INFO - Created the final data feed sequence.
+2024-04-19 11:40:45,614 - INFO - Created the final data feed sequence.
+2024-04-19 11:42:05,132 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:42:05,132 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:42:05,137 - INFO - Preprocessing data for RNN
+2024-04-19 11:42:05,140 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:42:05,141 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:42:05,142 - INFO - Scaled the Features
+2024-04-19 11:42:05,142 - INFO - Created the final data feed sequence.
+2024-04-19 11:45:02,162 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:45:02,162 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:45:02,165 - INFO - Preprocessing data for RNN
+2024-04-19 11:45:02,168 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:45:02,168 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:45:02,169 - INFO - Scaled the Features
+2024-04-19 11:45:02,169 - INFO - Created the final data feed sequence.
+2024-04-19 11:48:46,317 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:48:46,317 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:48:46,321 - INFO - Preprocessing data for RNN
+2024-04-19 11:48:46,323 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:48:46,323 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:48:46,324 - INFO - Scaled the Features
+2024-04-19 11:48:46,324 - INFO - Created the final data feed sequence.
+2024-04-19 11:49:34,752 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:49:34,752 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:49:34,754 - INFO - Preprocessing data for RNN
+2024-04-19 11:49:34,757 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:49:34,757 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:49:34,758 - INFO - Scaled the Features
+2024-04-19 11:49:34,758 - INFO - Created the final data feed sequence.
+2024-04-19 11:52:57,504 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:52:57,505 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:52:57,509 - INFO - Preprocessing data for RNN
+2024-04-19 11:52:57,516 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:52:57,516 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:52:57,517 - INFO - Scaled the Features
+2024-04-19 11:52:57,517 - INFO - Created the final data feed sequence.
+2024-04-19 11:54:28,959 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:54:28,959 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:54:28,960 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:54:28,960 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:54:28,962 - INFO - Preprocessing data for RNN
+2024-04-19 11:54:28,962 - INFO - Preprocessing data for RNN
+2024-04-19 11:54:28,966 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:54:28,966 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:54:28,966 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:54:28,966 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:54:28,966 - INFO - Scaled the Features
+2024-04-19 11:54:28,966 - INFO - Scaled the Features
+2024-04-19 11:54:28,966 - INFO - Created the final data feed sequence.
+2024-04-19 11:54:28,966 - INFO - Created the final data feed sequence.
+2024-04-19 11:55:08,167 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:55:08,167 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:55:08,167 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:55:08,167 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:55:08,167 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:55:08,167 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:55:08,170 - INFO - Preprocessing data for RNN
+2024-04-19 11:55:08,170 - INFO - Preprocessing data for RNN
+2024-04-19 11:55:08,170 - INFO - Preprocessing data for RNN
+2024-04-19 11:55:08,171 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:55:08,171 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:55:08,171 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:55:08,171 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:55:08,171 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:55:08,171 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:55:08,172 - INFO - Scaled the Features
+2024-04-19 11:55:08,172 - INFO - Scaled the Features
+2024-04-19 11:55:08,172 - INFO - Scaled the Features
+2024-04-19 11:55:08,172 - INFO - Created the final data feed sequence.
+2024-04-19 11:55:08,172 - INFO - Created the final data feed sequence.
+2024-04-19 11:55:08,172 - INFO - Created the final data feed sequence.
+2024-04-19 11:56:55,898 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:56:55,898 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:56:55,898 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:56:55,898 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:56:55,898 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:56:55,898 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:56:55,898 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:56:55,898 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:56:55,898 - INFO - Preprocessing data for LSTM
+2024-04-19 11:56:55,898 - INFO - Preprocessing data for LSTM
+2024-04-19 11:56:55,898 - INFO - Preprocessing data for LSTM
+2024-04-19 11:56:55,898 - INFO - Preprocessing data for LSTM
+2024-04-19 11:56:55,899 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 11:56:55,899 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 11:56:55,899 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 11:56:55,899 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 11:56:55,901 - INFO - Preprocessing data for RNN
+2024-04-19 11:56:55,901 - INFO - Preprocessing data for RNN
+2024-04-19 11:56:55,901 - INFO - Preprocessing data for RNN
+2024-04-19 11:56:55,901 - INFO - Preprocessing data for RNN
+2024-04-19 11:56:55,902 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:56:55,902 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:56:55,902 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:56:55,902 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:56:55,903 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:56:55,903 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:56:55,903 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:56:55,903 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:56:55,903 - INFO - Scaled the Features
+2024-04-19 11:56:55,903 - INFO - Scaled the Features
+2024-04-19 11:56:55,903 - INFO - Scaled the Features
+2024-04-19 11:56:55,903 - INFO - Scaled the Features
+2024-04-19 11:56:55,903 - INFO - Created the final data feed sequence.
+2024-04-19 11:56:55,903 - INFO - Created the final data feed sequence.
+2024-04-19 11:56:55,903 - INFO - Created the final data feed sequence.
+2024-04-19 11:56:55,903 - INFO - Created the final data feed sequence.
+2024-04-19 11:58:19,039 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:58:19,039 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:58:19,039 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:58:19,039 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:58:19,039 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:58:19,040 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:58:19,040 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:58:19,040 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:58:19,040 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:58:19,040 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:58:19,040 - INFO - Preprocessing data for LSTM
+2024-04-19 11:58:19,040 - INFO - Preprocessing data for LSTM
+2024-04-19 11:58:19,040 - INFO - Preprocessing data for LSTM
+2024-04-19 11:58:19,040 - INFO - Preprocessing data for LSTM
+2024-04-19 11:58:19,040 - INFO - Preprocessing data for LSTM
+2024-04-19 11:58:19,040 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 11:58:19,040 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 11:58:19,040 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 11:58:19,040 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 11:58:19,040 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 11:58:19,043 - INFO - Preprocessing data for RNN
+2024-04-19 11:58:19,043 - INFO - Preprocessing data for RNN
+2024-04-19 11:58:19,043 - INFO - Preprocessing data for RNN
+2024-04-19 11:58:19,043 - INFO - Preprocessing data for RNN
+2024-04-19 11:58:19,043 - INFO - Preprocessing data for RNN
+2024-04-19 11:58:19,044 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:58:19,044 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:58:19,044 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:58:19,044 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:58:19,044 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:58:19,044 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:58:19,044 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:58:19,044 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:58:19,044 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:58:19,044 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:58:19,045 - INFO - Scaled the Features
+2024-04-19 11:58:19,045 - INFO - Scaled the Features
+2024-04-19 11:58:19,045 - INFO - Scaled the Features
+2024-04-19 11:58:19,045 - INFO - Scaled the Features
+2024-04-19 11:58:19,045 - INFO - Scaled the Features
+2024-04-19 11:58:19,046 - INFO - Created the final data feed sequence.
+2024-04-19 11:58:19,046 - INFO - Created the final data feed sequence.
+2024-04-19 11:58:19,046 - INFO - Created the final data feed sequence.
+2024-04-19 11:58:19,046 - INFO - Created the final data feed sequence.
+2024-04-19 11:58:19,046 - INFO - Created the final data feed sequence.
+2024-04-19 11:58:46,481 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:58:46,481 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:58:46,481 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:58:46,481 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:58:46,481 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:58:46,481 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:58:46,481 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:58:46,481 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:58:46,481 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:58:46,481 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:58:46,481 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:58:46,481 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:58:46,481 - INFO - Preprocessing data for LSTM
+2024-04-19 11:58:46,481 - INFO - Preprocessing data for LSTM
+2024-04-19 11:58:46,481 - INFO - Preprocessing data for LSTM
+2024-04-19 11:58:46,481 - INFO - Preprocessing data for LSTM
+2024-04-19 11:58:46,481 - INFO - Preprocessing data for LSTM
+2024-04-19 11:58:46,481 - INFO - Preprocessing data for LSTM
+2024-04-19 11:58:46,481 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 11:58:46,481 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 11:58:46,481 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 11:58:46,481 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 11:58:46,481 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 11:58:46,481 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 11:58:46,482 - INFO - Preprocessing data for RNN
+2024-04-19 11:58:46,482 - INFO - Preprocessing data for RNN
+2024-04-19 11:58:46,482 - INFO - Preprocessing data for RNN
+2024-04-19 11:58:46,482 - INFO - Preprocessing data for RNN
+2024-04-19 11:58:46,482 - INFO - Preprocessing data for RNN
+2024-04-19 11:58:46,482 - INFO - Preprocessing data for RNN
+2024-04-19 11:58:46,484 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:58:46,484 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:58:46,484 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:58:46,484 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:58:46,484 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:58:46,484 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:58:46,484 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:58:46,484 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:58:46,484 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:58:46,484 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:58:46,484 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:58:46,484 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:58:46,484 - INFO - Scaled the Features
+2024-04-19 11:58:46,484 - INFO - Scaled the Features
+2024-04-19 11:58:46,484 - INFO - Scaled the Features
+2024-04-19 11:58:46,484 - INFO - Scaled the Features
+2024-04-19 11:58:46,484 - INFO - Scaled the Features
+2024-04-19 11:58:46,484 - INFO - Scaled the Features
+2024-04-19 11:58:46,485 - INFO - Created the final data feed sequence.
+2024-04-19 11:58:46,485 - INFO - Created the final data feed sequence.
+2024-04-19 11:58:46,485 - INFO - Created the final data feed sequence.
+2024-04-19 11:58:46,485 - INFO - Created the final data feed sequence.
+2024-04-19 11:58:46,485 - INFO - Created the final data feed sequence.
+2024-04-19 11:58:46,485 - INFO - Created the final data feed sequence.
+2024-04-19 11:59:32,770 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:59:32,770 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:59:32,770 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:59:32,770 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:59:32,770 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:59:32,770 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:59:32,770 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:59:32,771 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:59:32,771 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:59:32,771 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:59:32,771 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:59:32,771 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:59:32,771 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:59:32,771 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:59:32,771 - INFO - Preprocessing data for LSTM
+2024-04-19 11:59:32,771 - INFO - Preprocessing data for LSTM
+2024-04-19 11:59:32,771 - INFO - Preprocessing data for LSTM
+2024-04-19 11:59:32,771 - INFO - Preprocessing data for LSTM
+2024-04-19 11:59:32,771 - INFO - Preprocessing data for LSTM
+2024-04-19 11:59:32,771 - INFO - Preprocessing data for LSTM
+2024-04-19 11:59:32,771 - INFO - Preprocessing data for LSTM
+2024-04-19 11:59:32,771 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 11:59:32,771 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 11:59:32,771 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 11:59:32,771 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 11:59:32,771 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 11:59:32,771 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 11:59:32,771 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 11:59:32,773 - INFO - Preprocessing data for RNN
+2024-04-19 11:59:32,773 - INFO - Preprocessing data for RNN
+2024-04-19 11:59:32,773 - INFO - Preprocessing data for RNN
+2024-04-19 11:59:32,773 - INFO - Preprocessing data for RNN
+2024-04-19 11:59:32,773 - INFO - Preprocessing data for RNN
+2024-04-19 11:59:32,773 - INFO - Preprocessing data for RNN
+2024-04-19 11:59:32,773 - INFO - Preprocessing data for RNN
+2024-04-19 11:59:32,774 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:59:32,774 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:59:32,774 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:59:32,774 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:59:32,774 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:59:32,774 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:59:32,774 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:59:32,774 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:59:32,774 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:59:32,774 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:59:32,774 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:59:32,774 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:59:32,774 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:59:32,774 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:59:32,775 - INFO - Scaled the Features
+2024-04-19 11:59:32,775 - INFO - Scaled the Features
+2024-04-19 11:59:32,775 - INFO - Scaled the Features
+2024-04-19 11:59:32,775 - INFO - Scaled the Features
+2024-04-19 11:59:32,775 - INFO - Scaled the Features
+2024-04-19 11:59:32,775 - INFO - Scaled the Features
+2024-04-19 11:59:32,775 - INFO - Scaled the Features
+2024-04-19 11:59:32,775 - INFO - Created the final data feed sequence.
+2024-04-19 11:59:32,775 - INFO - Created the final data feed sequence.
+2024-04-19 11:59:32,775 - INFO - Created the final data feed sequence.
+2024-04-19 11:59:32,775 - INFO - Created the final data feed sequence.
+2024-04-19 11:59:32,775 - INFO - Created the final data feed sequence.
+2024-04-19 11:59:32,775 - INFO - Created the final data feed sequence.
+2024-04-19 11:59:32,775 - INFO - Created the final data feed sequence.
+2024-04-19 11:59:44,544 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:59:44,544 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:59:44,544 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:59:44,544 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:59:44,544 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:59:44,544 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:59:44,544 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:59:44,544 - INFO - Intitializing Data Preprocessor
+2024-04-19 11:59:44,545 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:59:44,545 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:59:44,545 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:59:44,545 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:59:44,545 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:59:44,545 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:59:44,545 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:59:44,545 - INFO - Data Preprocessor initialized successfully
+2024-04-19 11:59:44,545 - INFO - Preprocessing data for LSTM
+2024-04-19 11:59:44,545 - INFO - Preprocessing data for LSTM
+2024-04-19 11:59:44,545 - INFO - Preprocessing data for LSTM
+2024-04-19 11:59:44,545 - INFO - Preprocessing data for LSTM
+2024-04-19 11:59:44,545 - INFO - Preprocessing data for LSTM
+2024-04-19 11:59:44,545 - INFO - Preprocessing data for LSTM
+2024-04-19 11:59:44,545 - INFO - Preprocessing data for LSTM
+2024-04-19 11:59:44,545 - INFO - Preprocessing data for LSTM
+2024-04-19 11:59:44,546 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 11:59:44,546 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 11:59:44,546 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 11:59:44,546 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 11:59:44,546 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 11:59:44,546 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 11:59:44,546 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 11:59:44,546 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 11:59:44,547 - INFO - Preprocessing data for RNN
+2024-04-19 11:59:44,547 - INFO - Preprocessing data for RNN
+2024-04-19 11:59:44,547 - INFO - Preprocessing data for RNN
+2024-04-19 11:59:44,547 - INFO - Preprocessing data for RNN
+2024-04-19 11:59:44,547 - INFO - Preprocessing data for RNN
+2024-04-19 11:59:44,547 - INFO - Preprocessing data for RNN
+2024-04-19 11:59:44,547 - INFO - Preprocessing data for RNN
+2024-04-19 11:59:44,547 - INFO - Preprocessing data for RNN
+2024-04-19 11:59:44,550 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:59:44,550 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:59:44,550 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:59:44,550 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:59:44,550 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:59:44,550 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:59:44,550 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:59:44,550 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 11:59:44,550 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:59:44,550 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:59:44,550 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:59:44,550 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:59:44,550 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:59:44,550 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:59:44,550 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:59:44,550 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 11:59:44,551 - INFO - Scaled the Features
+2024-04-19 11:59:44,551 - INFO - Scaled the Features
+2024-04-19 11:59:44,551 - INFO - Scaled the Features
+2024-04-19 11:59:44,551 - INFO - Scaled the Features
+2024-04-19 11:59:44,551 - INFO - Scaled the Features
+2024-04-19 11:59:44,551 - INFO - Scaled the Features
+2024-04-19 11:59:44,551 - INFO - Scaled the Features
+2024-04-19 11:59:44,551 - INFO - Scaled the Features
+2024-04-19 11:59:44,551 - INFO - Created the final data feed sequence.
+2024-04-19 11:59:44,551 - INFO - Created the final data feed sequence.
+2024-04-19 11:59:44,551 - INFO - Created the final data feed sequence.
+2024-04-19 11:59:44,551 - INFO - Created the final data feed sequence.
+2024-04-19 11:59:44,551 - INFO - Created the final data feed sequence.
+2024-04-19 11:59:44,551 - INFO - Created the final data feed sequence.
+2024-04-19 11:59:44,551 - INFO - Created the final data feed sequence.
+2024-04-19 11:59:44,551 - INFO - Created the final data feed sequence.
+2024-04-19 12:03:13,749 - INFO - Intitializing Data Preprocessor
+2024-04-19 12:03:13,749 - INFO - Data Preprocessor initialized successfully
+2024-04-19 12:03:13,749 - INFO - Preprocessing data for LSTM
+2024-04-19 12:03:13,749 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 12:03:13,752 - INFO - Preprocessing data for RNN
+2024-04-19 12:03:13,754 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 12:03:13,754 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 12:03:13,754 - CRITICAL - An error occurred: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required by MinMaxScaler.
+2024-04-19 12:05:53,299 - INFO - Intitializing Data Preprocessor
+2024-04-19 12:05:53,299 - INFO - Data Preprocessor initialized successfully
+2024-04-19 12:05:53,299 - INFO - Preprocessing data for LSTM
+2024-04-19 12:05:53,299 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 12:05:53,302 - INFO - Preprocessing data for RNN
+2024-04-19 12:05:53,304 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 12:05:53,304 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 12:05:53,305 - CRITICAL - An error occurred: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required by MinMaxScaler.
+2024-04-19 12:08:10,716 - INFO - Intitializing Data Preprocessor
+2024-04-19 12:08:10,716 - INFO - Data Preprocessor initialized successfully
+2024-04-19 12:08:10,716 - INFO - Preprocessing data for LSTM
+2024-04-19 12:08:10,716 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 12:08:10,719 - INFO - Preprocessing data for RNN
+2024-04-19 12:08:10,721 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 12:08:10,722 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 12:08:10,722 - CRITICAL - An error occurred: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required by MinMaxScaler.
+2024-04-19 12:10:05,189 - INFO - Intitializing Data Preprocessor
+2024-04-19 12:10:05,189 - INFO - Data Preprocessor initialized successfully
+2024-04-19 12:10:05,189 - INFO - Preprocessing data for LSTM
+2024-04-19 12:10:05,189 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 12:10:05,191 - INFO - Preprocessing data for RNN
+2024-04-19 12:10:05,193 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 12:10:05,193 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 12:10:05,193 - CRITICAL - An error occurred: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required by MinMaxScaler.
+2024-04-19 12:10:48,505 - INFO - Intitializing Data Preprocessor
+2024-04-19 12:10:48,505 - INFO - Data Preprocessor initialized successfully
+2024-04-19 12:10:48,505 - INFO - Preprocessing data for LSTM
+2024-04-19 12:10:48,505 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 12:10:48,506 - INFO - Preprocessing data for RNN
+2024-04-19 12:10:48,508 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 12:10:48,508 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 12:10:48,508 - CRITICAL - An error occurred: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required by MinMaxScaler.
+2024-04-19 12:12:00,185 - INFO - Intitializing Data Preprocessor
+2024-04-19 12:12:00,185 - INFO - Data Preprocessor initialized successfully
+2024-04-19 12:12:00,185 - INFO - Preprocessing data for LSTM
+2024-04-19 12:12:00,185 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 12:12:00,187 - INFO - Preprocessing data for RNN
+2024-04-19 12:12:00,188 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 12:12:00,188 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 12:12:00,189 - CRITICAL - An error occurred: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required by MinMaxScaler.
+2024-04-19 12:12:21,176 - INFO - Intitializing Data Preprocessor
+2024-04-19 12:12:21,176 - INFO - Data Preprocessor initialized successfully
+2024-04-19 12:12:21,176 - INFO - Preprocessing data for LSTM
+2024-04-19 12:12:21,176 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 12:12:21,178 - INFO - Preprocessing data for RNN
+2024-04-19 12:12:21,180 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 12:12:21,180 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 12:12:21,180 - CRITICAL - An error occurred: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required by MinMaxScaler.
+2024-04-19 12:13:18,009 - INFO - Intitializing Data Preprocessor
+2024-04-19 12:13:18,009 - INFO - Data Preprocessor initialized successfully
+2024-04-19 12:13:18,009 - INFO - Preprocessing data for LSTM
+2024-04-19 12:13:18,009 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 12:13:18,011 - INFO - Preprocessing data for RNN
+2024-04-19 12:13:18,013 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 12:13:18,013 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 12:13:18,013 - CRITICAL - An error occurred: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required by MinMaxScaler.
+2024-04-19 12:14:14,228 - INFO - Intitializing Data Preprocessor
+2024-04-19 12:14:14,228 - INFO - Data Preprocessor initialized successfully
+2024-04-19 12:14:14,228 - INFO - Preprocessing data for LSTM
+2024-04-19 12:14:14,228 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 12:14:14,229 - INFO - Preprocessing data for RNN
+2024-04-19 12:14:14,231 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 12:14:14,231 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 12:14:14,231 - CRITICAL - An error occurred: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required by MinMaxScaler.
+2024-04-19 12:14:37,270 - INFO - Intitializing Data Preprocessor
+2024-04-19 12:14:37,270 - INFO - Intitializing Data Preprocessor
+2024-04-19 12:14:37,270 - INFO - Data Preprocessor initialized successfully
+2024-04-19 12:14:37,270 - INFO - Data Preprocessor initialized successfully
+2024-04-19 12:14:37,270 - INFO - Preprocessing data for LSTM
+2024-04-19 12:14:37,270 - INFO - Preprocessing data for LSTM
+2024-04-19 12:14:37,270 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 12:14:37,270 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 12:14:37,271 - INFO - Preprocessing data for RNN
+2024-04-19 12:14:37,271 - INFO - Preprocessing data for RNN
+2024-04-19 12:14:37,273 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 12:14:37,273 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 12:14:37,273 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 12:14:37,273 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 12:14:37,274 - CRITICAL - An error occurred: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required by MinMaxScaler.
+2024-04-19 12:14:37,274 - CRITICAL - An error occurred: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required by MinMaxScaler.
+2024-04-19 12:15:17,612 - INFO - Intitializing Data Preprocessor
+2024-04-19 12:15:17,612 - INFO - Data Preprocessor initialized successfully
+2024-04-19 12:15:17,612 - INFO - Preprocessing data for LSTM
+2024-04-19 12:15:17,612 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 12:15:17,614 - INFO - Preprocessing data for RNN
+2024-04-19 12:15:17,616 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 12:15:17,616 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 12:15:17,616 - CRITICAL - An error occurred: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required by MinMaxScaler.
+2024-04-19 12:16:12,089 - INFO - Intitializing Data Preprocessor
+2024-04-19 12:16:12,089 - INFO - Data Preprocessor initialized successfully
+2024-04-19 12:16:12,089 - INFO - Preprocessing data for LSTM
+2024-04-19 12:16:12,089 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 12:16:12,091 - INFO - Preprocessing data for RNN
+2024-04-19 12:16:12,093 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 12:16:12,093 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 12:16:12,093 - CRITICAL - An error occurred: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required by MinMaxScaler.
+2024-04-19 12:16:47,550 - INFO - Intitializing Data Preprocessor
+2024-04-19 12:16:47,550 - INFO - Data Preprocessor initialized successfully
+2024-04-19 12:16:47,550 - INFO - Preprocessing data for LSTM
+2024-04-19 12:16:47,550 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 12:16:47,552 - INFO - Preprocessing data for RNN
+2024-04-19 12:16:47,553 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 12:16:47,553 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 12:16:47,553 - CRITICAL - An error occurred: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required by MinMaxScaler.
+2024-04-19 12:17:45,376 - INFO - Intitializing Data Preprocessor
+2024-04-19 12:17:45,376 - INFO - Data Preprocessor initialized successfully
+2024-04-19 12:17:45,376 - INFO - Preprocessing data for LSTM
+2024-04-19 12:17:45,376 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 12:17:45,378 - INFO - Preprocessing data for RNN
+2024-04-19 12:17:45,380 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 12:17:45,380 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 12:17:45,380 - CRITICAL - An error occurred: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required by MinMaxScaler.
+2024-04-19 12:18:04,720 - INFO - Intitializing Data Preprocessor
+2024-04-19 12:18:04,720 - INFO - Data Preprocessor initialized successfully
+2024-04-19 12:18:04,720 - INFO - Preprocessing data for LSTM
+2024-04-19 12:18:04,720 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 12:18:04,726 - INFO - Preprocessing data for RNN
+2024-04-19 12:18:04,729 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 12:18:04,729 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 12:18:04,729 - CRITICAL - An error occurred: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required by MinMaxScaler.
+2024-04-19 12:18:26,025 - INFO - Intitializing Data Preprocessor
+2024-04-19 12:18:26,025 - INFO - Data Preprocessor initialized successfully
+2024-04-19 12:18:26,025 - INFO - Preprocessing data for LSTM
+2024-04-19 12:18:26,026 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 12:18:26,027 - INFO - Preprocessing data for RNN
+2024-04-19 12:18:26,029 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 12:18:26,029 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 12:18:26,029 - CRITICAL - An error occurred: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required by MinMaxScaler.
+2024-04-19 12:18:45,793 - INFO - Intitializing Data Preprocessor
+2024-04-19 12:18:45,793 - INFO - Data Preprocessor initialized successfully
+2024-04-19 12:18:45,793 - INFO - Preprocessing data for LSTM
+2024-04-19 12:18:45,793 - WARNING - Redirecting the LSTM preprocessing over to RNN Preprocessor
+2024-04-19 12:18:45,796 - INFO - Preprocessing data for RNN
+2024-04-19 12:18:45,798 - INFO - Fixed the Variables and Updated the date time format
+2024-04-19 12:18:45,799 - INFO - Reshaped the data for the given option(Open).
+2024-04-19 12:18:45,799 - INFO - Scaled the Features
+2024-04-19 12:18:45,800 - INFO - Created the final data feed sequence.

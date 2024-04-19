@@ -36,7 +36,9 @@ class DataPreprocessor:
         if model == '-1':
             self.logger.warning('No model selected. Returning the data as it is.')
 
-    def preprocess_linear_regression(self, data):
+    def preprocess_linear_regression(self, file_name):
+        data = pd.read_csv(file_name).fillna(0)
+        print(data)
         try:
             self.logger.info("Starting Preprocessing data for Linear Regression")
             # Step 1: Fixing the date format
@@ -57,12 +59,13 @@ class DataPreprocessor:
             self.logger.critical(f'An error occurred: {exception}')
             return data
         
-    def preprocess_ann(self, data):
+    def preprocess_ann(self, file_name):
         self.logger.info('Preprocessing data for ANN')
         self.logger.warning('Redirecting the ANN preprocessing over to Linear Regression Preprocessor')
-        return self.preprocess_linear_regression(data)
+        return self.preprocess_linear_regression(file_name)
 
-    def preprocess_rnn(self, data, option='Open', time_step=25):
+    def preprocess_rnn(self, file_name, option='Open', time_step=25):
+        data = pd.read_csv(file_name).fillna(0)
         self.logger.info("Preprocessing data for RNN")
         try:
             # Step 1: Fixing the date format
@@ -91,10 +94,10 @@ class DataPreprocessor:
             self.logger.critical(f'An error occurred: {exception}')
             return data
         
-    def preprocess_lstm(self, data, option='Open', time_step=25):
+    def preprocess_lstm(self, file_name, option='Open', time_step=25):
         self.logger.info("Preprocessing data for LSTM")
         self.logger.warning('Redirecting the LSTM preprocessing over to RNN Preprocessor')
-        return self.preprocess_rnn(data, option, time_step)
+        return self.preprocess_rnn(file_name, option, time_step)
 
 def preprocess_data(data, model='-1', option='Open', time_step=25):
     preprocessor = DataPreprocessor(model)
@@ -111,7 +114,6 @@ def preprocess_data(data, model='-1', option='Open', time_step=25):
         print("Preprocessing data for LSTM")
         return preprocessor.preprocess_lstm(data, option, time_step)
     else:
-        # self.logger.warninging("No model selected. Returning the data as it is.")
         return data
 
 if __name__ == '__main__':
